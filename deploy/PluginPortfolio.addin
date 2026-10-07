@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>插件01 墙门窗统计</Name>
+    <Description>自动统计墙/门/窗数量、面积、体积，按标高分组，导出 CSV</Description>
+    <Assembly>E:\BIM2022\PluginPortfolio\bin\Debug\PluginPortfolio.dll</Assembly>
+    <FullClassName>PluginPortfolio.Command01</FullClassName>
+    <ClientId>11111111-1111-1111-1111-111111111111</ClientId>
+    <Text>插件01 墙门窗统计</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>插件02 多维度分析</Name>
+    <Description>WPF 交互界面，按类别/标高筛选，3 表联动导出</Description>
+    <Assembly>E:\BIM2022\PluginPortfolio\bin\Debug\PluginPortfolio.dll</Assembly>
+    <FullClassName>PluginPortfolio.Command02</FullClassName>
+    <ClientId>22222222-2222-2222-2222-222222222222</ClientId>
+    <Text>插件02 多维度分析</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>插件03 AI语义筛选</Name>
+    <Description>DeepSeek API 驱动，自然语言筛选 BIM 构件（15 种类别）</Description>
+    <Assembly>E:\BIM2022\PluginPortfolio\bin\Debug\PluginPortfolio.dll</Assembly>
+    <FullClassName>PluginPortfolio.Command03</FullClassName>
+    <ClientId>33333333-3333-3333-3333-333333333333</ClientId>
+    <Text>插件03 AI语义筛选</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>插件04 命名规范检查</Name>
+    <Description>正则 + JSON 配置驱动，违规图元自动选中并导出清单</Description>
+    <Assembly>E:\BIM2022\PluginPortfolio\bin\Debug\PluginPortfolio.dll</Assembly>
+    <FullClassName>PluginPortfolio.Command04</FullClassName>
+    <ClientId>44444444-4444-4444-4444-444444444444</ClientId>
+    <Text>插件04 命名规范检查</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,16 @@
+{
+  "DefaultPrefix": "",
+  "DefaultMaxLength": 64,
+  "BadCharacters": "[\\\\/:*?\"<>|]",
+  "CategoryPrefixes": {
+    "OST_Walls": "W-",
+    "OST_Doors": "D-",
+    "OST_Windows": "WN-",
+    "OST_Floors": "FL-",
+    "OST_Ceilings": "CL-",
+    "OST_Roofs": "RF-",
+    "OST_Columns": "C-",
+    "OST_StructuralFraming": "B-",
+    "OST_StructuralFoundation": "FD-"
+  }
+}
