@@ -152,7 +152,12 @@ C:\ProgramData\Autodesk\Revit\Addins\2022\
 
 ## 📺 演示
 
-（录屏链接 / GIF / 截图）
+
+<img width="1920" height="1080" alt="d4f7290ca892eb70308a168f3f80caad" src="https://github.com/user-attachments/assets/5ec983fc-6ba0-4552-a993-2e0d5a9e9f45" />
+<img width="1920" height="1080" alt="2df99f2ee94118e4bec4de913e44e48d" src="https://github.com/user-attachments/assets/121ef130-97af-4d21-977f-8cb4bab1bf5a" />
+<img width="1920" height="1080" alt="0e2a3de844c0bcb909184440f8b5ad6c" src="https://github.com/user-attachments/assets/017276da-edd5-4b5e-bf97-828bc3689ad4" />
+<img width="1920" height="1080" alt="80e90b60c6606ffbe9743fb243c6d752" src="https://github.com/user-attachments/assets/16eb18cc-51fe-4441-ae91-b62d97d3fb06" />
+
 
 ---
 
