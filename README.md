@@ -1,4 +1,4 @@
-# Revit 二次开发插件集
+<img width="1920" height="1080" alt="80e90b60c6606ffbe9743fb243c6d752" src="https://github.com/user-attachments/assets/1104ed31-ec64-4f81-92b8-359c825d5bf6" /># Revit 二次开发插件集
 
 > 4 个独立插件，覆盖 BIM 工程量统计 / 交互分析 / AI 语义筛选 / 命名规范检查  
 > 技术栈：C# + Revit API 2022 + WPF + DeepSeek API
@@ -152,11 +152,17 @@ C:\ProgramData\Autodesk\Revit\Addins\2022\
 
 ## 📺 演示
 
+### 插件 01 墙门窗统计
+<img width="1920" height="1080" alt="80e90b60c6606ffbe9743fb243c6d752" src="https://github.com/user-attachments/assets/a6042072-ff81-48ac-ab45-ba855ba34a48" />
 
-<img width="1920" height="1080" alt="d4f7290ca892eb70308a168f3f80caad" src="https://github.com/user-attachments/assets/5ec983fc-6ba0-4552-a993-2e0d5a9e9f45" />
-<img width="1920" height="1080" alt="2df99f2ee94118e4bec4de913e44e48d" src="https://github.com/user-attachments/assets/121ef130-97af-4d21-977f-8cb4bab1bf5a" />
-<img width="1920" height="1080" alt="0e2a3de844c0bcb909184440f8b5ad6c" src="https://github.com/user-attachments/assets/017276da-edd5-4b5e-bf97-828bc3689ad4" />
-<img width="1920" height="1080" alt="80e90b60c6606ffbe9743fb243c6d752" src="https://github.com/user-attachments/assets/16eb18cc-51fe-4441-ae91-b62d97d3fb06" />
+### 插件 02 多维度分析
+<img width="1920" height="1080" alt="0e2a3de844c0bcb909184440f8b5ad6c" src="https://github.com/user-attachments/assets/61bf9832-96b4-49df-b9df-e76057079719" />
+
+### 插件 03 AI 语义筛选
+<img width="1280" height="720" alt="3897fe4453134b3eafe7dd88b82edeaf" src="https://github.com/user-attachments/assets/b77c4f68-d137-4676-be6c-acbf18afd6bd" />
+
+### 插件 04 命名规范检查
+<img width="1920" height="1080" alt="d4f7290ca892eb70308a168f3f80caad" src="https://github.com/user-attachments/assets/8c580121-d929-4f86-8fc1-003e4a1f5380" />
 
 
 ---
