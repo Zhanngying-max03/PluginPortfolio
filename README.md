@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="80e90b60c6606ffbe9743fb243c6d752" src="https://github.com/user-attachments/assets/1104ed31-ec64-4f81-92b8-359c825d5bf6" /># Revit 二次开发插件集
+# Revit 二次开发插件集
 
 > 4 个独立插件，覆盖 BIM 工程量统计 / 交互分析 / AI 语义筛选 / 命名规范检查  
 > 技术栈：C# + Revit API 2022 + WPF + DeepSeek API
